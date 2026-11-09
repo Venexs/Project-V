@@ -40,67 +40,7 @@ Project V experiments with a more persistent interaction cycle:
 7. **Continue** — allow autonomous processes to run between direct interactions.
 
 The exact behaviour depends on the state of the individual modules, the configured language model, and the quality of the retrieved context.
-
-
-flowchart TD
-    A([Start Project V]) --> B["main.py / run.py"]
-    B --> C["Initialise modules and configuration"]
-    C --> D["Connect to local Ollama LLM"]
-    C --> E["Initialise speech handler"]
-    C --> F["Initialise virtual world"]
-    D --> G["Vashrak initialisation"]
-    E --> G
-    F --> G
-
-    G --> H["Start interactive session"]
-    
-    H --> I["Receive user input"]
-    I --> J["Speech / Audio-Video Processing"]
-    J --> K["Attention System"]
-    
-    K --> L["Orchestrator"]
-    
-    subgraph COG["Cognitive Processing"]
-        L --> M["Active Inference"]
-        M --> N["Self Model"]
-        N --> O["Metacognition"]
-        O --> P["Emotional State"]
-        P --> Q["Thoughts and Goals"]
-        Q --> R["Intrinsic Motivation"]
-    end
-
-    R --> S["Retrieve Relevant Memory"]
-    S --> T["Retrieve Knowledge"]
-    T --> U["Build Context"]
-    U --> V["LLM Processing - Ollama"]
-    V --> W["Response Filtering"]
-    W --> X["Conversation Style"]
-    X --> Y["Generate Response"]
-    Y --> Z["Speech / Text Output"]
-    Z --> AA["User Feedback"]
-
-    AA --> AB["Reward System"]
-    AB --> AC["Update Memory and Knowledge"]
-    AC --> AD["Update Self Model and Internal State"]
-    AD --> H
-
-    subgraph AUTO["Autonomous Consciousness Cycle"]
-        AE["Autonomous Cycle"] --> AF["Generate Internal Thoughts"]
-        AF --> AG["Evaluate Goals and Motivation"]
-        AG --> AH["Explore Virtual World"]
-        AH --> AI["Observe Environment"]
-        AI --> AJ["Update Internal State"]
-        AJ --> AE
-    end
-
-    G --> AE
-    AJ -. "Information available to orchestrator" .-> L
-    L -. "Internal state and goals" .-> AE
-
-    H --> AK{"User says goodbye?"}
-    AK -- No --> I
-    AK -- Yes --> AL([End Session])
-
+![Flowchart](Flowchart.png)
 
 ## Core Systems
 
