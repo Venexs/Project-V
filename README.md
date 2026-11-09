@@ -40,7 +40,7 @@ Project V experiments with a more persistent interaction cycle:
 7. **Continue** — allow autonomous processes to run between direct interactions.
 
 The exact behaviour depends on the state of the individual modules, the configured language model, and the quality of the retrieved context.
-![Flowchart](Flowchart.png)
+![Flowchart](flowchart.png)
 
 ## Core Systems
 
