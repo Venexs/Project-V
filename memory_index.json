@@ -1,0 +1,908 @@
+{
+  "M1763963540709": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Interaction",
+      "Conversation"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1763963540.7382445,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1763963585750": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Interaction",
+      "Conversation"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1763963585.7509053,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1763963617921": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Interaction",
+      "Conversation"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1763963617.9216924,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1763963971927": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1763963971.9979722,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1763964555919": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Interaction",
+      "Conversation"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1763964555.919957,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1763964640626": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Interaction",
+      "Conversation"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1763964640.626937,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792607835838": {
+    "title": "Greeting",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Greeting",
+      "First Contact"
+    ],
+    "emotion": {
+      "Happy": 0.2,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.5
+    },
+    "dominant_emotion": "Surprise",
+    "emotion_intensity": 0.5,
+    "last_accessed": 1792607835.870636,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792607856037": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Interaction",
+      "First Contact",
+      "Conversation",
+      "Greeting"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792607856.048288,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792607868945": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Interaction",
+      "First Contact",
+      "Conversation",
+      "Greeting"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792607868.9467812,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792607878934": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Interaction",
+      "First Contact",
+      "Conversation",
+      "Greeting"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792607878.9596334,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792607885961": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Interaction",
+      "First Contact",
+      "Conversation",
+      "Greeting"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792607885.9616039,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792608400574": {
+    "title": "Greeting",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Greeting",
+      "First Contact"
+    ],
+    "emotion": {
+      "Happy": 0.2,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.5
+    },
+    "dominant_emotion": "Surprise",
+    "emotion_intensity": 0.5,
+    "last_accessed": 1792608400.5751348,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792608520733": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Greeting",
+      "Conversation",
+      "Interaction",
+      "First Contact"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792608520.7347822,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792608800983": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Greeting",
+      "Conversation",
+      "Interaction",
+      "First Contact"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792608801.3747299,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792760820464": {
+    "title": "Greeting",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Greeting",
+      "First Contact"
+    ],
+    "emotion": {
+      "Happy": 0.2,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.5
+    },
+    "dominant_emotion": "Surprise",
+    "emotion_intensity": 0.5,
+    "last_accessed": 1792760820.4659374,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792760835832": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Interaction",
+      "First Contact",
+      "Greeting"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792760835.833375,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792760864302": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Interaction",
+      "First Contact",
+      "Greeting"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792760864.3039994,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792760893858": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Interaction",
+      "First Contact",
+      "Greeting"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792760894.1106944,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792760918112": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Interaction",
+      "First Contact",
+      "Greeting"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792760918.1128855,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792760962615": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Interaction",
+      "First Contact",
+      "Greeting"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792760962.6160414,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792760988928": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792760988.929099,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792761025582": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Interaction",
+      "First Contact",
+      "Greeting"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792761025.6076276,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792761040610": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Interaction",
+      "First Contact",
+      "Greeting"
+    ],
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.0,
+    "last_accessed": 1792761040.6109817,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770126852": {
+    "title": "Greeting",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Greeting",
+      "First Contact"
+    ],
+    "emotion": {
+      "Happy": 0.2,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.5
+    },
+    "dominant_emotion": "Surprise",
+    "emotion_intensity": 0.5,
+    "last_accessed": 1792770126.8531787,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770160717": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Greeting",
+      "First Contact",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.05,
+      "Sad": 0.05,
+      "Anger": 0.05,
+      "Fear": 0.05,
+      "Disgust": 0.05,
+      "Surprise": 0.05
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.05,
+    "last_accessed": 1792770160.7185187,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770202205": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.048,
+      "Sad": 0.048,
+      "Anger": 0.048,
+      "Fear": 0.048,
+      "Disgust": 0.048,
+      "Surprise": 0.048
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.048,
+    "last_accessed": 1792770202.7293725,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770259388": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Greeting",
+      "First Contact",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.041,
+      "Sad": 0.041,
+      "Anger": 0.041,
+      "Fear": 0.041,
+      "Disgust": 0.041,
+      "Surprise": 0.041
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.041,
+    "last_accessed": 1792770259.4839385,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770315318": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Greeting",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.039,
+      "Sad": 0.039,
+      "Anger": 0.039,
+      "Fear": 0.039,
+      "Disgust": 0.039,
+      "Surprise": 0.039
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.039,
+    "last_accessed": 1792770316.0315068,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770389235": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Greeting",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.033,
+      "Sad": 0.033,
+      "Anger": 0.033,
+      "Fear": 0.033,
+      "Disgust": 0.033,
+      "Surprise": 0.033
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.033,
+    "last_accessed": 1792770391.4095783,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770534631": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Greeting",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.028,
+      "Sad": 0.028,
+      "Anger": 0.028,
+      "Fear": 0.028,
+      "Disgust": 0.028,
+      "Surprise": 0.028
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.028,
+    "last_accessed": 1792770534.8093338,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770569668": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.027,
+      "Sad": 0.027,
+      "Anger": 0.027,
+      "Fear": 0.027,
+      "Disgust": 0.027,
+      "Surprise": 0.027
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.027,
+    "last_accessed": 1792770570.4901142,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770616847": {
+    "title": "Autonomous Reflection",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Autonomous",
+      "Reflection"
+    ],
+    "emotion": {
+      "Happy": 0.024,
+      "Sad": 0.024,
+      "Anger": 0.024,
+      "Fear": 0.024,
+      "Disgust": 0.024,
+      "Surprise": 0.024
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.024,
+    "last_accessed": 1792770617.2280989,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770638656": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Greeting",
+      "First Contact",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.023,
+      "Sad": 0.023,
+      "Anger": 0.023,
+      "Fear": 0.023,
+      "Disgust": 0.023,
+      "Surprise": 0.023
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.023,
+    "last_accessed": 1792770639.0235405,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770737106": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Greeting",
+      "First Contact",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.022,
+      "Sad": 0.022,
+      "Anger": 0.022,
+      "Fear": 0.022,
+      "Disgust": 0.022,
+      "Surprise": 0.022
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.022,
+    "last_accessed": 1792770737.317236,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792770887978": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Conversation",
+      "Greeting",
+      "First Contact",
+      "Interaction"
+    ],
+    "emotion": {
+      "Happy": 0.017,
+      "Sad": 0.017,
+      "Anger": 0.017,
+      "Fear": 0.017,
+      "Disgust": 0.017,
+      "Surprise": 0.017
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.017,
+    "last_accessed": 1792770888.7625067,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  },
+  "M1792771006542": {
+    "title": "Interaction with Unknown Entity",
+    "people": [],
+    "objects": [],
+    "topics": [
+      "Reflection",
+      "Autonomous",
+      "Greeting",
+      "First Contact",
+      "Conversation"
+    ],
+    "emotion": {
+      "Happy": 0.016,
+      "Sad": 0.016,
+      "Anger": 0.016,
+      "Fear": 0.016,
+      "Disgust": 0.016,
+      "Surprise": 0.016
+    },
+    "dominant_emotion": "Neutral",
+    "emotion_intensity": 0.016,
+    "last_accessed": 1792771007.9500084,
+    "tag_relevance": 1.0,
+    "face_encoding": null,
+    "audio_file": null,
+    "video_file": null
+  }
+}

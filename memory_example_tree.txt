@@ -1,0 +1,61 @@
+📁 /memories/
+   ├── [16digit_id]/
+   │    ├── meta.json           # main descriptive file
+   │    ├── text_summary.txt    # quick description for retrieval
+   │    ├── audio.ogg
+   │    ├── video.mp4
+   │    ├── emotional_state.json
+   │    ├── embeddings.npy      # vector embeddings of text/audio/video
+   │    └── compressed.zip      # optional archived bundle
+
+-----------------------------------------------------------------------------
+
+{
+  "memory_id": "XAF2E93KBGJ721",
+  "tags": {
+    "people": ["Haruka", "Eli"],
+    "objects": ["Sword", "Journal"],
+    "topics": ["Creativity", "Trust"],
+    "emotion_cluster": "Joyful / Inspired"
+  }
+}
+
+-----------------------------------------------------------------------------
+
+activation = (semantic_similarity * 0.6)
+            + (tag_match_weight * 0.2)
+            + (recency_factor * 0.1)
+            + (emotional_intensity * 0.1)
+
+-----------------------------------------------------------------------------
+
+┌──────────────────────────┐
+│        LLM Core          			 │
+│ (acts as Global Workspace) 		 │
+└──────────┬───────────────┘
+           │
+     Query / Task
+           │
+           ▼
+┌──────────────────────────┐
+│   Retrieval Cortex        		 │
+│  - Embedding search       		 │
+│  - Tag filtering           		 │
+│  - Activation scoring      		 │
+└──────────┬───────────────┘
+           │
+           ▼
+┌──────────────────────────┐
+│   Memory Graph Layer      		 │
+│  - Nodes: episodic memories		 │
+│  - Edges: semantic links   		 │
+│  - Updates continuously    		 │
+└──────────┬───────────────┘
+           │
+           ▼
+┌──────────────────────────┐
+│   Episodic Memory Store   		 │
+│  - Multimodal folders     		 │
+│  - Emotional values        		 │
+│  - Metadata & embeddings   		 │
+└──────────────────────────┘

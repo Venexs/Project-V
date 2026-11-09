@@ -1,0 +1,465 @@
+import React, { useState, useEffect, useRef } from 'react';
+import { Send, Loader2 } from 'lucide-react';
+
+const ConsciousnessGUI = () => {
+  const canvasRef = useRef(null);
+  const [messages, setMessages] = useState([
+    { role: 'ai', text: 'Hey', timestamp: Date.now() }
+  ]);
+  const [inputText, setInputText] = useState('');
+  const [isLoading, setIsLoading] = useState(false);
+  const [aiState, setAiState] = useState({
+    awareness: 0.5,
+    confusion: 0.3,
+    curiosity: 0.6,
+    state: 'idle' // idle, thinking, responding, confused, curious
+  });
+  
+  const messagesEndRef = useRef(null);
+  const animationRef = useRef(null);
+  const rotationRef = useRef({ x: 0, y: 0, z: 0 });
+  const rotationSpeedRef = useRef({ x: 0.002, y: 0.003, z: 0.001 });
+  const targetRotationSpeedRef = useRef({ x: 0.002, y: 0.003, z: 0.001 });
+  const stateTimeoutRef = useRef(null);
+
+  // Scroll to bottom
+  const scrollToBottom = () => {
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  };
+
+  useEffect(scrollToBottom, [messages]);
+
+  // Generate sphere vertices
+  const generateSphereVertices = (radius, subdivisions) => {
+    const vertices = [];
+    const goldenRatio = (1 + Math.sqrt(5)) / 2;
+    
+    const t = goldenRatio;
+    const baseVertices = [
+      [-1, t, 0], [1, t, 0], [-1, -t, 0], [1, -t, 0],
+      [0, -1, t], [0, 1, t], [0, -1, -t], [0, 1, -t],
+      [t, 0, -1], [t, 0, 1], [-t, 0, -1], [-t, 0, 1]
+    ];
+    
+    baseVertices.forEach(v => {
+      const len = Math.sqrt(v[0] * v[0] + v[1] * v[1] + v[2] * v[2]);
+      vertices.push([
+        (v[0] / len) * radius,
+        (v[1] / len) * radius,
+        (v[2] / len) * radius
+      ]);
+    });
+    
+    for (let i = 0; i < subdivisions; i++) {
+      for (let j = 0; j < subdivisions; j++) {
+        const theta = (i / subdivisions) * Math.PI;
+        const phi = (j / subdivisions) * 2 * Math.PI;
+        
+        const x = radius * Math.sin(theta) * Math.cos(phi);
+        const y = radius * Math.sin(theta) * Math.sin(phi);
+        const z = radius * Math.cos(theta);
+        
+        vertices.push([x, y, z]);
+      }
+    }
+    
+    return vertices;
+  };
+
+  const rotatePoint = (point, rotation) => {
+    let [x, y, z] = point;
+    
+    let y1 = y * Math.cos(rotation.x) - z * Math.sin(rotation.x);
+    let z1 = y * Math.sin(rotation.x) + z * Math.cos(rotation.x);
+    y = y1;
+    z = z1;
+    
+    let x1 = x * Math.cos(rotation.y) + z * Math.sin(rotation.y);
+    z1 = -x * Math.sin(rotation.y) + z * Math.cos(rotation.y);
+    x = x1;
+    z = z1;
+    
+    x1 = x * Math.cos(rotation.z) - y * Math.sin(rotation.z);
+    y1 = x * Math.sin(rotation.z) + y * Math.cos(rotation.z);
+    x = x1;
+    y = y1;
+    
+    return [x, y, z];
+  };
+
+  const project = (point, width, height) => {
+    const fov = 500;
+    const scale = fov / (fov + point[2]);
+    return [
+      point[0] * scale + width / 2,
+      point[1] * scale + height / 2,
+      scale
+    ];
+  };
+
+  const getColors = () => {
+    const { awareness, confusion, curiosity, state } = aiState;
+    
+    let bgColor, dotColor;
+    
+    switch (state) {
+      case 'thinking':
+        bgColor = '#0a0a1a';
+        dotColor = `rgba(100, 100, 255, ${0.5 + awareness * 0.5})`;
+        break;
+      case 'responding':
+        bgColor = '#0a1a0a';
+        dotColor = `rgba(100, 255, 100, ${0.5 + awareness * 0.5})`;
+        break;
+      case 'confused':
+        bgColor = '#1a0a0a';
+        dotColor = `rgba(255, 100, 100, ${0.5 + confusion * 0.5})`;
+        break;
+      case 'curious':
+        bgColor = '#1a1a0a';
+        dotColor = `rgba(255, 255, 100, ${0.5 + curiosity * 0.5})`;
+        break;
+      default:
+        bgColor = '#0a0a0a';
+        dotColor = `rgba(150, 150, 200, ${0.3 + awareness * 0.3})`;
+    }
+    
+    return { bgColor, dotColor };
+  };
+
+  // Animation loop
+  useEffect(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+    
+    const ctx = canvas.getContext('2d');
+    const width = canvas.width;
+    const height = canvas.height;
+    
+    const vertices = generateSphereVertices(150, 8);
+    
+    const animate = () => {
+      const { bgColor, dotColor } = getColors();
+      
+      ctx.fillStyle = bgColor;
+      ctx.fillRect(0, 0, width, height);
+      
+      rotationSpeedRef.current.x += (targetRotationSpeedRef.current.x - rotationSpeedRef.current.x) * 0.1;
+      rotationSpeedRef.current.y += (targetRotationSpeedRef.current.y - rotationSpeedRef.current.y) * 0.1;
+      rotationSpeedRef.current.z += (targetRotationSpeedRef.current.z - rotationSpeedRef.current.z) * 0.1;
+      
+      rotationRef.current.x += rotationSpeedRef.current.x;
+      rotationRef.current.y += rotationSpeedRef.current.y;
+      rotationRef.current.z += rotationSpeedRef.current.z;
+      
+      const projectedVertices = vertices.map(v => {
+        const rotated = rotatePoint(v, rotationRef.current);
+        return project(rotated, width, height);
+      });
+      
+      const sorted = projectedVertices
+        .map((p, i) => ({ p, i }))
+        .sort((a, b) => a.p[2] - b.p[2]);
+      
+      sorted.forEach(({ p, i }) => {
+        const size = 2 + p[2] * 2;
+        const alpha = 0.3 + p[2] * 0.7;
+        
+        ctx.beginPath();
+        ctx.arc(p[0], p[1], size, 0, Math.PI * 2);
+        ctx.fillStyle = dotColor.replace(/[\d.]+\)$/, `${alpha})`);
+        ctx.fill();
+        
+        const gradient = ctx.createRadialGradient(p[0], p[1], 0, p[0], p[1], size * 2);
+        gradient.addColorStop(0, dotColor.replace(/[\d.]+\)$/, `${alpha * 0.3})`));
+        gradient.addColorStop(1, 'rgba(0,0,0,0)');
+        ctx.fillStyle = gradient;
+        ctx.beginPath();
+        ctx.arc(p[0], p[1], size * 2, 0, Math.PI * 2);
+        ctx.fill();
+      });
+      
+      animationRef.current = requestAnimationFrame(animate);
+    };
+    
+    animate();
+    
+    return () => {
+      if (animationRef.current) {
+        cancelAnimationFrame(animationRef.current);
+      }
+    };
+  }, [aiState]);
+
+  // Update rotation speed
+  useEffect(() => {
+    const { awareness, confusion, curiosity, state } = aiState;
+    
+    let baseSpeed = 0.002;
+    let speedMultiplier = 1;
+    
+    switch (state) {
+      case 'thinking':
+        speedMultiplier = 2 + awareness;
+        break;
+      case 'responding':
+        speedMultiplier = 1.5;
+        break;
+      case 'confused':
+        speedMultiplier = 0.5 + confusion * 2;
+        targetRotationSpeedRef.current = {
+          x: baseSpeed * speedMultiplier * (Math.random() * 2),
+          y: baseSpeed * speedMultiplier * (Math.random() * 2),
+          z: baseSpeed * speedMultiplier * (Math.random() * 2)
+        };
+        return;
+      case 'curious':
+        speedMultiplier = 3 + curiosity;
+        break;
+      default:
+        speedMultiplier = 1;
+    }
+    
+    targetRotationSpeedRef.current = {
+      x: baseSpeed * speedMultiplier,
+      y: baseSpeed * speedMultiplier * 1.5,
+      z: baseSpeed * speedMultiplier * 0.7
+    };
+  }, [aiState]);
+
+  // Call actual AI backend
+  const callAI = async (userMessage) => {
+    try {
+      setIsLoading(true);
+      
+      // Set to thinking state
+      setAiState(prev => ({ ...prev, state: 'thinking' }));
+      
+      const response = await fetch('http://localhost:5000/api/chat', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ message: userMessage })
+      });
+      
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+      
+      const data = await response.json();
+      
+      // Update AI state from backend
+      setAiState({
+        awareness: data.awareness || 0.5,
+        confusion: data.confusion || 0.3,
+        curiosity: data.curiosity || 0.6,
+        state: data.state || 'responding'
+      });
+      
+      // Add AI response
+      setMessages(prev => [...prev, {
+        role: 'ai',
+        text: data.response || "I'm processing...",
+        timestamp: Date.now()
+      }]);
+      
+      // Return to idle after 2 seconds
+      if (stateTimeoutRef.current) {
+        clearTimeout(stateTimeoutRef.current);
+      }
+      stateTimeoutRef.current = setTimeout(() => {
+        setAiState(prev => ({ ...prev, state: 'idle' }));
+      }, 2000);
+      
+    } catch (error) {
+      console.error('Error calling AI:', error);
+      
+      // Fallback to local simulation
+      setAiState(prev => ({ ...prev, state: 'confused', confusion: 0.8 }));
+      setMessages(prev => [...prev, {
+        role: 'ai',
+        text: "I'm having trouble connecting. Running in offline mode.",
+        timestamp: Date.now()
+      }]);
+      
+      setTimeout(() => {
+        setAiState(prev => ({ ...prev, state: 'idle', confusion: 0.3 }));
+      }, 2000);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  const handleSend = () => {
+    if (!inputText.trim() || isLoading) return;
+    
+    setMessages(prev => [...prev, {
+      role: 'user',
+      text: inputText,
+      timestamp: Date.now()
+    }]);
+    
+    const messageToSend = inputText;
+    setInputText('');
+    
+    callAI(messageToSend);
+  };
+
+  const handleKeyPress = (e) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      handleSend();
+    }
+  };
+
+  return (
+    <div className="flex h-screen bg-black text-white">
+      <div className="w-96 bg-gray-900 flex flex-col border-r border-gray-800">
+        <div className="p-4 border-b border-gray-800">
+          <h2 className="text-xl font-bold">Vashrak</h2>
+          <p className="text-xs text-gray-400 mt-1">
+            {aiState.state === 'idle' && 'Idle'}
+            {aiState.state === 'thinking' && 'Thinking...'}
+            {aiState.state === 'responding' && 'Responding...'}
+            {aiState.state === 'confused' && 'Confused'}
+            {aiState.state === 'curious' && 'Curious'}
+          </p>
+          <div className="flex gap-2 mt-2 text-xs">
+            <span className="text-blue-400">Awareness: {(aiState.awareness * 100).toFixed(0)}%</span>
+            <span className="text-red-400">Confusion: {(aiState.confusion * 100).toFixed(0)}%</span>
+            <span className="text-yellow-400">Curiosity: {(aiState.curiosity * 100).toFixed(0)}%</span>
+          </div>
+        </div>
+        
+        <div className="flex-1 overflow-y-auto p-4 space-y-4">
+          {messages.map((msg, idx) => (
+            <div
+              key={idx}
+              className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
+            >
+              <div
+                className={`max-w-[80%] rounded-2xl px-4 py-2 ${
+                  msg.role === 'user'
+                    ? 'bg-blue-600 text-white rounded-br-sm'
+                    : 'bg-gray-800 text-gray-100 rounded-bl-sm'
+                }`}
+              >
+                <p className="text-sm">{msg.text}</p>
+                <p className="text-xs opacity-50 mt-1">
+                  {new Date(msg.timestamp).toLocaleTimeString([], { 
+                    hour: '2-digit', 
+                    minute: '2-digit' 
+                  })}
+                </p>
+              </div>
+            </div>
+          ))}
+          <div ref={messagesEndRef} />
+        </div>
+        
+        <div className="p-4 border-t border-gray-800">
+          <div className="flex gap-2">
+            <input
+              type="text"
+              value={inputText}
+              onChange={(e) => setInputText(e.target.value)}
+              onKeyPress={handleKeyPress}
+              placeholder="Message Vashrak..."
+              disabled={isLoading}
+              className="flex-1 bg-gray-800 text-white rounded-full px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm disabled:opacity-50"
+            />
+            <button
+              onClick={handleSend}
+              disabled={isLoading}
+              className="bg-blue-600 hover:bg-blue-700 rounded-full p-2 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              {isLoading ? <Loader2 size={20} className="animate-spin" /> : <Send size={20} />}
+            </button>
+          </div>
+        </div>
+      </div>
+      
+      <div className="flex-1 flex items-center justify-center relative">
+        <canvas
+          ref={canvasRef}
+          width={800}
+          height={800}
+          className="max-w-full max-h-full"
+        />
+        
+        <div className="absolute top-4 right-4 bg-black bg-opacity-50 rounded-lg p-4 backdrop-blur">
+          <h3 className="text-sm font-bold mb-2">Consciousness State</h3>
+          <div className="space-y-2 text-xs">
+            <div>
+              <div className="flex justify-between mb-1">
+                <span>Awareness</span>
+                <span>{(aiState.awareness * 100).toFixed(0)}%</span>
+              </div>
+              <div className="w-32 h-1 bg-gray-700 rounded">
+                <div 
+                  className="h-full bg-blue-500 rounded transition-all duration-500"
+                  style={{ width: `${aiState.awareness * 100}%` }}
+                />
+              </div>
+            </div>
+            
+            <div>
+              <div className="flex justify-between mb-1">
+                <span>Confusion</span>
+                <span>{(aiState.confusion * 100).toFixed(0)}%</span>
+              </div>
+              <div className="w-32 h-1 bg-gray-700 rounded">
+                <div 
+                  className="h-full bg-red-500 rounded transition-all duration-500"
+                  style={{ width: `${aiState.confusion * 100}%` }}
+                />
+              </div>
+            </div>
+            
+            <div>
+              <div className="flex justify-between mb-1">
+                <span>Curiosity</span>
+                <span>{(aiState.curiosity * 100).toFixed(0)}%</span>
+              </div>
+              <div className="w-32 h-1 bg-gray-700 rounded">
+                <div 
+                  className="h-full bg-yellow-500 rounded transition-all duration-500"
+                  style={{ width: `${aiState.curiosity * 100}%` }}
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div className="absolute bottom-4 right-4 bg-black bg-opacity-50 rounded-lg p-3 backdrop-blur text-xs">
+          <h4 className="font-bold mb-2">Sphere Colors</h4>
+          <div className="space-y-1">
+            <div className="flex items-center gap-2">
+              <div className="w-3 h-3 rounded-full bg-gray-400" />
+              <span>Idle</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="w-3 h-3 rounded-full bg-blue-500" />
+              <span>Thinking</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="w-3 h-3 rounded-full bg-green-500" />
+              <span>Responding</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="w-3 h-3 rounded-full bg-red-500" />
+              <span>Confused</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="w-3 h-3 rounded-full bg-yellow-500" />
+              <span>Curious</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default ConsciousnessGUI;

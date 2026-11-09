@@ -1,0 +1,5894 @@
+{
+  "M1763963540709": [
+    {
+      "target": "M1763963585750",
+      "weight": 0.604,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.76"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.579,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.7,
+      "reason": "shared_topic_Conversation,semantic_similarity_1.00"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.423,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.133,
+      "reason": "semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.607,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.77"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.559,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.65"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.614,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.588,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.72"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.133,
+      "reason": "semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.506,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.432,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.12,
+      "reason": "semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.501,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.401,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.25"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.502,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.465,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.451,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.545,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.524,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.572,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.491,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.568,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.67"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.574,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.498,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.581,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    }
+  ],
+  "M1763963585750": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.604,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.76"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.582,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.71"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.604,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.76"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.506,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.443,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.115,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.662,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.91"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.581,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.641,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.85"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.531,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.115,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.536,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.43,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.11,
+      "reason": "semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.503,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.626,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.82"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.493,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.547,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.511,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.534,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.497,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.439,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.617,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.616,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.597,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.74"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.484,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.46"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.529,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.57"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.515,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.557,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.64"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.539,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.517,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.537,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    }
+  ],
+  "M1763963617921": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.579,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.582,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.71"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.579,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.474,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.41,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.115,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.559,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.65"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.636,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.84"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.553,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.115,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.489,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.439,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.111,
+      "reason": "semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.467,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.515,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.486,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.511,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.517,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.503,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.468,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.422,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.518,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.518,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.522,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.448,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.486,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.49,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.494,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.518,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.513,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.457,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.515,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    }
+  ],
+  "M1763963971927": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.7,
+      "reason": "shared_topic_Conversation,semantic_similarity_1.00"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.604,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.76"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.579,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.423,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.133,
+      "reason": "semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.607,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.77"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.559,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.65"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.614,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.588,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.72"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.133,
+      "reason": "semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.506,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.432,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.12,
+      "reason": "semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.501,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.401,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.25"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.502,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.465,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.451,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.545,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.524,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.572,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.491,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.568,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.67"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.574,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.498,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.581,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    }
+  ],
+  "M1763964555919": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.506,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.474,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.563,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.164,
+      "reason": "semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.546,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.49,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.164,
+      "reason": "semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.531,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.426,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.134,
+      "reason": "semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.434,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.453,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.418,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.452,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.431,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.453,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.411,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.129,
+      "reason": "semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.529,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.57"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.488,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.517,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.456,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.441,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.539,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.466,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.462,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.435,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.466,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    }
+  ],
+  "M1763964640626": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.423,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.443,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.41,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.423,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.563,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.121,
+      "reason": "semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.455,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.417,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.121,
+      "reason": "semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.524,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.442,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.118,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.413,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.406,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.418,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.433,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.146,
+      "reason": "semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.473,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.425,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.413,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.411,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.423,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    }
+  ],
+  "M1792607835838": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.133,
+      "reason": "semantic_similarity_0.33"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.115,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.115,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.133,
+      "reason": "semantic_similarity_0.33"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.164,
+      "reason": "semantic_similarity_0.41"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.121,
+      "reason": "semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.424,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.7,
+      "reason": "shared_topic_Greeting,semantic_similarity_1.00"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.41,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.419,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.578,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.69"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.418,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.435,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.541,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.444,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.439,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    }
+  ],
+  "M1792607856037": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.607,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.77"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.662,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.91"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.559,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.65"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.607,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.77"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.546,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.455,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.424,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.595,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.74"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.649,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.87"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.554,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.424,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.532,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.457,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.421,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.495,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.624,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.81"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.504,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.568,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.67"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.518,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.534,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.504,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.455,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.657,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.89"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.622,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.80"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.614,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.51,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.532,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.564,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.553,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.555,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.64"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.563,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.531,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.564,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    }
+  ],
+  "M1792607868945": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.559,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.65"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.581,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.636,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.84"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.559,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.65"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.49,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.417,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.595,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.74"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.588,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.72"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.526,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.447,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.464,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.535,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.514,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.516,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.47,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.455,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.543,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.554,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.475,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.515,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.516,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.481,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.45"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.541,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    }
+  ],
+  "M1792607878934": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.614,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.641,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.85"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.553,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.614,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.649,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.87"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.588,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.72"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.599,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.75"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.504,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.428,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.507,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.573,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.439,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.525,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.51,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.542,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.497,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.461,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.40"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.603,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.76"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.588,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.72"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.581,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.469,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.525,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.55,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.574,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.69"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.571,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.578,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.69"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.537,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.592,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.73"
+    }
+  ],
+  "M1792607885961": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.588,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.72"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.531,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.588,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.72"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.554,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.526,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.599,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.75"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.425,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.411,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.466,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.468,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.517,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.542,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.493,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.618,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.536,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.611,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.78"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.52,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.644,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.86"
+    }
+  ],
+  "M1792608400574": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.133,
+      "reason": "semantic_similarity_0.33"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.115,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.115,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.133,
+      "reason": "semantic_similarity_0.33"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.164,
+      "reason": "semantic_similarity_0.41"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.121,
+      "reason": "semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.7,
+      "reason": "shared_topic_Greeting,semantic_similarity_1.00"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.424,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.41,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.419,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.578,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.69"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.418,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.435,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.541,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.444,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.439,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    }
+  ],
+  "M1792608520733": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.506,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.536,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.489,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.506,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.531,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.524,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.41,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.532,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.504,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.425,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.41,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.482,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.45"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.423,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.467,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.493,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.453,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.444,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.458,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.484,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.46"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.509,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.433,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.43,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.535,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.51,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.443,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.438,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.428,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.475,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.439,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.433,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    }
+  ],
+  "M1792608800983": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.432,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.43,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.439,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.432,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.426,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.442,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.419,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.457,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.447,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.428,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.411,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.419,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.482,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.45"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.438,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.428,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.456,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.433,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.406,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.448,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.457,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.449,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.478,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.45"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.434,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.464,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.469,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.445,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.402,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.404,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.413,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.469,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.428,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    }
+  ],
+  "M1792760820464": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.12,
+      "reason": "semantic_similarity_0.30"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.11,
+      "reason": "semantic_similarity_0.28"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.111,
+      "reason": "semantic_similarity_0.28"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.12,
+      "reason": "semantic_similarity_0.30"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.134,
+      "reason": "semantic_similarity_0.34"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.118,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.578,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.69"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.421,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.578,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.69"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.423,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.438,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.411,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.436,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.105,
+      "reason": "semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.419,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.457,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.578,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.69"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.428,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.431,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.451,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.401,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.25"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.419,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.404,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    }
+  ],
+  "M1792760835832": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.501,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.503,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.467,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.501,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.434,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.413,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.495,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.464,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.507,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.467,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.454,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.43,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.456,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.507,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.486,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.474,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.46,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.40"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.52,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.464,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.459,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.40"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.512,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.515,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.519,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.473,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.503,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    }
+  ],
+  "M1792760864302": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.626,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.82"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.515,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.453,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.406,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.624,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.81"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.535,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.573,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.466,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.493,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.428,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.454,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.538,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.605,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.76"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.514,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.417,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.612,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.78"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.601,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.75"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.558,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.65"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.471,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.498,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.52,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.474,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.501,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.494,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.495,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    }
+  ],
+  "M1792760893858": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.401,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.25"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.493,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.486,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.401,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.25"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.418,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.418,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.504,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.514,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.439,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.418,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.453,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.456,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.411,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.538,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.55,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.418,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.419,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.497,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.476,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.465,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.546,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.403,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    }
+  ],
+  "M1792760918112": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.547,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.511,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.435,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.568,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.67"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.516,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.525,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.468,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.435,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.444,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.433,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.436,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.43,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.605,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.76"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.55,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.507,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.516,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.49,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.407,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.549,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.542,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.49,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.48,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.45"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.491,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.482,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.46"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.514,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.511,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    }
+  ],
+  "M1792760962615": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.511,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.517,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.452,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.418,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.518,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.51,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.458,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.406,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.456,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.507,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.593,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.73"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.407,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.521,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.507,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.488,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.408,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.483,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.46"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.525,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.489,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.442,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.495,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    }
+  ],
+  "M1792760988928": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.502,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.534,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.503,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.502,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.431,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.534,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.47,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.542,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.517,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.484,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.46"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.448,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.105,
+      "reason": "semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.507,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.514,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.418,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.516,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.593,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.73"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.555,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.64"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.466,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.519,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.526,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.57"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.498,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.417,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.516,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.504,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.503,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.512,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    }
+  ],
+  "M1792761025582": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.465,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.497,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.468,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.465,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.453,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.433,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.504,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.455,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.497,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.509,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.457,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.419,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.486,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.419,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.49,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.555,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.64"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.448,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.494,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.461,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.40"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.442,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.497,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.457,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.468,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.462,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.474,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.485,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.46"
+    }
+  ],
+  "M1792761040610": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.451,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.439,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.422,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.451,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.411,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.455,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.461,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.40"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.433,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.457,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.474,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.417,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.407,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.466,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.448,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.432,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.422,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.462,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.40"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.454,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.453,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.456,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.521,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.475,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.509,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.442,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.493,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    }
+  ],
+  "M1792770160717": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.545,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.617,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.518,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.545,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.529,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.57"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.473,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.444,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.657,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.89"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.603,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.76"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.444,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.535,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.478,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.45"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.428,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.46,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.40"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.612,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.78"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.497,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.521,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.519,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.494,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.422,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.416,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.612,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.78"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.594,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.73"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.51,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.55,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.517,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.513,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.52,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.506,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    }
+  ],
+  "M1792770202205": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.524,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.616,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.518,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.524,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.488,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.425,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.622,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.80"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.543,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.588,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.72"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.542,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.434,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.52,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.601,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.75"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.476,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.549,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.507,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.526,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.57"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.462,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.40"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.612,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.78"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.572,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.475,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.539,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.566,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.533,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.553,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.536,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.563,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    }
+  ],
+  "M1792770259388": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.572,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.597,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.74"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.522,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.572,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.517,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.614,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.554,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.581,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.51,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.464,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.431,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.464,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.558,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.65"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.465,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.542,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.488,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.498,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.461,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.40"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.454,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.594,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.73"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.572,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.538,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.542,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.566,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.506,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.535,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    }
+  ],
+  "M1792770315318": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.484,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.46"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.448,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.456,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.439,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.51,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.475,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.469,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.439,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.443,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.469,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.451,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.471,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.546,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.49,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.408,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.417,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.442,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.401,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.25"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.51,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.475,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.545,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.488,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.425,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.458,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.414,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.426,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    }
+  ],
+  "M1792770389235": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.491,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.529,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.57"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.486,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.491,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.441,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.413,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.532,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.499,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.525,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.438,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.401,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.25"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.459,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.40"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.498,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.403,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.48,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.45"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.483,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.46"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.497,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.453,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.539,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.545,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.49,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.501,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.497,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.473,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.533,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    }
+  ],
+  "M1792770534631": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.49,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.539,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.564,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.55,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.493,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.445,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.512,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.52,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.45,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.38"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.525,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.516,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.456,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.55,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.538,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.488,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.49,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.518,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.533,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.511,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.559,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.65"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.52,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    }
+  ],
+  "M1792770569668": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.515,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.494,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.548,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.62"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.466,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.553,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.515,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.574,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.69"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.618,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.428,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.402,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.515,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.474,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.491,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.504,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.457,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.521,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.517,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.566,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.542,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.425,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.501,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.518,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.555,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.64"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.604,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.76"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.512,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.616,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    }
+  ],
+  "M1792770638656": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.568,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.67"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.557,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.64"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.518,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.568,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.67"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.462,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.411,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.555,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.64"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.523,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.56"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.571,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.536,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.427,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.404,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.419,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.30"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.519,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.501,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.477,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.503,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.468,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.475,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.533,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.566,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.458,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.533,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.555,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.64"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.54,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.488,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.569,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.67"
+    }
+  ],
+  "M1792770737106": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.574,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.539,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.513,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.574,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.68"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.487,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.423,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.563,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.516,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.578,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.69"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.611,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.78"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.475,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.44"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.413,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.28"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.404,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.494,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.482,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.46"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.489,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.505,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.462,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.509,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.404,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.513,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.553,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.63"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.508,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.414,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.497,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.511,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.604,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.76"
+    },
+    {
+      "target": "M1792770616847",
+      "weight": 0.115,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.54,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.507,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.622,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.81"
+    }
+  ],
+  "M1792770887978": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.498,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.517,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.457,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.39"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.498,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.50"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.435,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.34"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.531,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.481,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.45"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.537,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.52,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.439,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.469,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.42"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.473,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.514,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.442,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.36"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.474,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.442,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.35"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.52,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.536,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.506,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.496,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.473,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.43"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.559,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.65"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.512,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.488,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.47"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.507,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.52"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.544,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    }
+  ],
+  "M1792771006542": [
+    {
+      "target": "M1763963540709",
+      "weight": 0.581,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    },
+    {
+      "target": "M1763963585750",
+      "weight": 0.537,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1763963617921",
+      "weight": 0.515,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.54"
+    },
+    {
+      "target": "M1763963971927",
+      "weight": 0.581,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.70"
+    },
+    {
+      "target": "M1763964555919",
+      "weight": 0.466,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.41"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.564,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.541,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.592,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.73"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.644,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.86"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.433,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.428,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.32"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.503,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.495,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.3,
+      "reason": "shared_topic_Conversation"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.511,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.495,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.49"
+    },
+    {
+      "target": "M1792760988928",
+      "weight": 0.512,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.53"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.485,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.46"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.493,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.48"
+    },
+    {
+      "target": "M1792770126852",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.506,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.51"
+    },
+    {
+      "target": "M1792770202205",
+      "weight": 0.563,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.66"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.535,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.59"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.426,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.31"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.533,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.58"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.52,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.55"
+    },
+    {
+      "target": "M1792770569668",
+      "weight": 0.616,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.79"
+    },
+    {
+      "target": "M1792770616847",
+      "weight": 0.3,
+      "reason": "shared_topic_Reflection"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.569,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.67"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.622,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.81"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.544,
+      "reason": "shared_topic_Conversation,semantic_similarity_0.61"
+    }
+  ],
+  "M1792770126852": [
+    {
+      "target": "M1763964555919",
+      "weight": 0.129,
+      "reason": "semantic_similarity_0.32"
+    },
+    {
+      "target": "M1763964640626",
+      "weight": 0.146,
+      "reason": "semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792607835838",
+      "weight": 0.541,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792607856037",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607868945",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607878934",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792607885961",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792608400574",
+      "weight": 0.541,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.60"
+    },
+    {
+      "target": "M1792608520733",
+      "weight": 0.43,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792608800983",
+      "weight": 0.449,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.37"
+    },
+    {
+      "target": "M1792760820464",
+      "weight": 0.578,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.69"
+    },
+    {
+      "target": "M1792760835832",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760864302",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760893858",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792760918112",
+      "weight": 0.407,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.27"
+    },
+    {
+      "target": "M1792760962615",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792761025582",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792761040610",
+      "weight": 0.432,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.33"
+    },
+    {
+      "target": "M1792770160717",
+      "weight": 0.416,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792770259388",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770315318",
+      "weight": 0.401,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.25"
+    },
+    {
+      "target": "M1792770389235",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770534631",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770638656",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792770737106",
+      "weight": 0.404,
+      "reason": "shared_topic_Greeting,semantic_similarity_0.26"
+    },
+    {
+      "target": "M1792770887978",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.3,
+      "reason": "shared_topic_Greeting"
+    }
+  ],
+  "M1792770616847": [
+    {
+      "target": "M1792770737106",
+      "weight": 0.115,
+      "reason": "semantic_similarity_0.29"
+    },
+    {
+      "target": "M1792771006542",
+      "weight": 0.3,
+      "reason": "shared_topic_Reflection"
+    }
+  ]
+}

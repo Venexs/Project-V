@@ -1,0 +1,17 @@
+sentence-transformers
+torch
+numpy
+sounddevice
+soundfile
+speechrecognition
+pyttsx3
+requests
+scikit-learn
+ursina
+flask
+flask-cors
+accelerate
+peft
+bitsandbytes
+datasets
+trl

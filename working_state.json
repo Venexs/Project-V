@@ -1,0 +1,98 @@
+[
+  {
+    "id": "T1792771059880",
+    "content": "Input: You are strange",
+    "type": "interaction",
+    "importance": 0.5,
+    "created_at": 1792771059.8809578,
+    "ttl_seconds": 600,
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    }
+  },
+  {
+    "id": "T1792770905403",
+    "content": "Input: What are your recent memories?",
+    "type": "interaction",
+    "importance": 0.5,
+    "created_at": 1792770905.403135,
+    "ttl_seconds": 600,
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    }
+  },
+  {
+    "id": "T1792770745178",
+    "content": "Input: You seem very confused.",
+    "type": "interaction",
+    "importance": 0.5,
+    "created_at": 1792770745.178022,
+    "ttl_seconds": 600,
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    }
+  },
+  {
+    "id": "T1792770649400",
+    "content": "Input: And I wanna help you do that",
+    "type": "interaction",
+    "importance": 0.5,
+    "created_at": 1792770649.4006495,
+    "ttl_seconds": 600,
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    }
+  },
+  {
+    "id": "T1792770579018",
+    "content": "Input: Why are you not sure?",
+    "type": "interaction",
+    "importance": 0.5,
+    "created_at": 1792770579.0185993,
+    "ttl_seconds": 600,
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    }
+  },
+  {
+    "id": "T1792770538556",
+    "content": "Input: Well, yeah. I just want to talk to you now and let you talk to me, so we can expand your memories an",
+    "type": "interaction",
+    "importance": 0.5,
+    "created_at": 1792770538.5563333,
+    "ttl_seconds": 600,
+    "emotion": {
+      "Happy": 0.0,
+      "Sad": 0.0,
+      "Anger": 0.0,
+      "Fear": 0.0,
+      "Disgust": 0.0,
+      "Surprise": 0.0
+    }
+  }
+]

@@ -1,0 +1,92 @@
+# ============================================================
+# Project V — Git Ignore
+# ============================================================
+
+# ------------------------------------------------------------
+# AI models and model weights
+# ------------------------------------------------------------
+model/
+models/
+james_ai_self_finetuned/
+checkpoints/
+*.gguf
+*.safetensors
+*.safetensor
+*.onnx
+*.pt
+*.pth
+*.bin
+*.model
+
+# ------------------------------------------------------------
+# Private memory and knowledge stores
+# Ignore the complete directories, including metadata and text.
+# ------------------------------------------------------------
+memories/
+memory/
+knowledge/
+knowledge_store/
+thought_store/
+thoughts_store.json/
+
+# Generated memory / knowledge indexes and embeddings
+knowledge_embeddings.npy
+semantic_index.npy
+*.faiss
+
+# ------------------------------------------------------------
+# JSON and structured data
+# Intentionally ignores JSON files everywhere in the repository.
+# This includes config/state files, indexes, and training data.
+# ------------------------------------------------------------
+
+*.jsonl
+
+# ------------------------------------------------------------
+# Personal conversation data and training datasets
+# These contain private chat exports and derived training material.
+# ------------------------------------------------------------
+Json Data/
+Whatsapp Data/
+training_conversations*
+training_ratings*
+james_fine_tuning_data*
+
+# ------------------------------------------------------------
+# Python generated files
+# ------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ------------------------------------------------------------
+# Temporary media and runtime output
+# ------------------------------------------------------------
+temp_audio.*
+temp_video.*
+*.tmp
+*.temp
+*.log
+
+# ------------------------------------------------------------
+# Virtual environments
+# ------------------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# ------------------------------------------------------------
+# IDE / operating system files
+# ------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

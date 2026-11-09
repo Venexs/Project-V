@@ -1,0 +1,12 @@
+FROM smollm:1.7b
+
+# Remove ALL system instructions.
+SYSTEM ""
+
+# Make the model strictly context-only.
+PARAMETER temperature 0.7
+PARAMETER top_p 0.9
+
+# No task training, no rules, no facts.
+# All knowledge must come from the user's message.
+TEMPLATE "{{ .Prompt }}"

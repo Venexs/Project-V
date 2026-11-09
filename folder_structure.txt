@@ -1,0 +1,432 @@
+FOLDER STRUCTURE AND FILE SIZES
+======================================================================
+Root: D:\Projects\Project V
+
+├── __pycache__/
+│   ├── gui_server.cpython-314.pyc  [    6.0KB]
+│   ├── main.cpython-314.pyc  [   49.5KB]
+│   ├── raw_data_maker.cpython-314.pyc  [    3.4KB]
+│   └── training.cpython-314.pyc  [    3.7KB]
+├── files/
+│   └── grid_single.png  [   16.3KB]
+├── james_ai_self_finetuned/
+├── Json Data/
+│   ├── james_fine_tuning_data_with_aisha_bangladesh.jsonl  [  143.2KB]
+│   ├── james_fine_tuning_data_with_ananya.jsonl  [  518.1KB]
+│   ├── james_fine_tuning_data_with_carl.jsonl  [    6.0MB]
+│   ├── james_fine_tuning_data_with_harshita.jsonl  [    4.0MB]
+│   └── merged_training_with_conversations.jsonl  [   10.7MB]
+├── knowledge_store/
+│   ├── K1763963588980/
+│   │   └── meta.json  [  418.0B]
+│   ├── K1763963589470/
+│   │   └── meta.json  [  550.0B]
+│   ├── K1763964665323/
+│   │   └── meta.json  [  820.0B]
+│   ├── K1763964665528/
+│   │   └── meta.json  [  923.0B]
+│   ├── K1792600473959/
+│   │   └── meta.json  [  558.0B]
+│   ├── K1792600643747/
+│   │   └── meta.json  [  558.0B]
+│   ├── K1792600643846/
+│   │   └── meta.json  [  449.0B]
+│   ├── K1792600643990/
+│   │   └── meta.json  [  546.0B]
+│   ├── K1792600644143/
+│   │   └── meta.json  [  388.0B]
+│   ├── K1792600644278/
+│   │   └── meta.json  [  499.0B]
+│   ├── K1792600644726/
+│   │   └── meta.json  [  539.0B]
+│   ├── K1792600644871/
+│   │   └── meta.json  [  524.0B]
+│   ├── K1792600645051/
+│   │   └── meta.json  [  432.0B]
+│   ├── K1792600645214/
+│   │   └── meta.json  [  502.0B]
+│   ├── K1792600645406/
+│   │   └── meta.json  [  500.0B]
+│   ├── K1792600645597/
+│   │   └── meta.json  [  532.0B]
+│   ├── K1792600645799/
+│   │   └── meta.json  [  398.0B]
+│   ├── K1792600645992/
+│   │   └── meta.json  [  615.0B]
+│   ├── K1792600646227/
+│   │   └── meta.json  [  590.0B]
+│   ├── K1792600646459/
+│   │   └── meta.json  [  621.0B]
+│   ├── K1792600646683/
+│   │   └── meta.json  [  325.0B]
+│   ├── K1792600646941/
+│   │   └── meta.json  [  432.0B]
+│   ├── K1792600647204/
+│   │   └── meta.json  [  337.0B]
+│   ├── K1792600647466/
+│   │   └── meta.json  [  589.0B]
+│   ├── K1792600647745/
+│   │   └── meta.json  [  316.0B]
+│   ├── K1792600648040/
+│   │   └── meta.json  [  381.0B]
+│   ├── K1792600648385/
+│   │   └── meta.json  [  536.0B]
+│   ├── K1792600648722/
+│   │   └── meta.json  [  620.0B]
+│   ├── K1792600649079/
+│   │   └── meta.json  [  463.0B]
+│   ├── K1792600649442/
+│   │   └── meta.json  [  522.0B]
+│   ├── K1792600649810/
+│   │   └── meta.json  [  491.0B]
+│   ├── K1792600650202/
+│   │   └── meta.json  [  459.0B]
+│   ├── K1792600650617/
+│   │   └── meta.json  [  520.0B]
+│   ├── K1792600651010/
+│   │   └── meta.json  [  359.0B]
+│   ├── K1792600651464/
+│   │   └── meta.json  [  619.0B]
+│   ├── K1792600651896/
+│   │   └── meta.json  [  424.0B]
+│   ├── K1792600652341/
+│   │   └── meta.json  [  462.0B]
+│   ├── K1792600652816/
+│   │   └── meta.json  [  614.0B]
+│   ├── K1792601667057/
+│   │   └── meta.json  [  558.0B]
+│   ├── K1792601667676/
+│   │   └── meta.json  [  449.0B]
+│   ├── K1792601668210/
+│   │   └── meta.json  [  546.0B]
+│   ├── K1792601668806/
+│   │   └── meta.json  [  387.0B]
+│   ├── K1792601669431/
+│   │   └── meta.json  [  499.0B]
+│   ├── K1792601670012/
+│   │   └── meta.json  [  540.0B]
+│   ├── K1792601670603/
+│   │   └── meta.json  [  524.0B]
+│   ├── K1792601671217/
+│   │   └── meta.json  [  433.0B]
+│   ├── K1792601671835/
+│   │   └── meta.json  [  502.0B]
+│   ├── K1792601672486/
+│   │   └── meta.json  [  500.0B]
+│   ├── K1792601673094/
+│   │   └── meta.json  [  533.0B]
+│   ├── K1792601673757/
+│   │   └── meta.json  [  398.0B]
+│   ├── K1792601674549/
+│   │   └── meta.json  [  615.0B]
+│   ├── K1792601675211/
+│   │   └── meta.json  [  590.0B]
+│   ├── K1792601675961/
+│   │   └── meta.json  [  621.0B]
+│   ├── K1792601676671/
+│   │   └── meta.json  [  325.0B]
+│   ├── K1792601677411/
+│   │   └── meta.json  [  433.0B]
+│   ├── K1792601678251/
+│   │   └── meta.json  [  337.0B]
+│   ├── K1792601679033/
+│   │   └── meta.json  [  590.0B]
+│   ├── K1792601679867/
+│   │   └── meta.json  [  316.0B]
+│   ├── K1792601680682/
+│   │   └── meta.json  [  381.0B]
+│   ├── K1792601681659/
+│   │   └── meta.json  [  534.0B]
+│   ├── K1792601682519/
+│   │   └── meta.json  [  620.0B]
+│   ├── K1792601683408/
+│   │   └── meta.json  [  463.0B]
+│   ├── K1792601684335/
+│   │   └── meta.json  [  522.0B]
+│   ├── K1792601685232/
+│   │   └── meta.json  [  490.0B]
+│   ├── K1792601686152/
+│   │   └── meta.json  [  459.0B]
+│   ├── K1792601687051/
+│   │   └── meta.json  [  520.0B]
+│   ├── K1792601688014/
+│   │   └── meta.json  [  360.0B]
+│   ├── K1792601688935/
+│   │   └── meta.json  [  617.0B]
+│   ├── K1792601689837/
+│   │   └── meta.json  [  424.0B]
+│   ├── K1792601690759/
+│   │   └── meta.json  [  462.0B]
+│   ├── K1792601691690/
+│   │   └── meta.json  [  615.0B]
+│   ├── K1792760841898/
+│   │   └── meta.json  [  752.0B]
+│   ├── K1792770167028/
+│   │   └── meta.json  [  514.0B]
+│   ├── K1792770267360/
+│   │   └── meta.json  [  455.0B]
+│   ├── K1792770322292/
+│   │   └── meta.json  [  376.0B]
+│   └── K1792770421511/
+│       └── meta.json  [  620.0B]
+├── memories/
+│   ├── M1763963540709/
+│   │   ├── meta.json  [  483.0B]
+│   │   └── text.txt  [   54.0B]
+│   ├── M1763963585750/
+│   │   ├── meta.json  [  502.0B]
+│   │   └── text.txt  [   73.0B]
+│   ├── M1763963617921/
+│   │   ├── meta.json  [  501.0B]
+│   │   └── text.txt  [   72.0B]
+│   ├── M1763963971927/
+│   │   ├── meta.json  [  483.0B]
+│   │   └── text.txt  [   54.0B]
+│   ├── M1763964555919/
+│   │   ├── meta.json  [  636.0B]
+│   │   └── text.txt  [  338.0B]
+│   ├── M1763964640626/
+│   │   ├── meta.json  [  634.0B]
+│   │   └── text.txt  [    1.1KB]
+│   ├── M1792607835838/
+│   │   ├── meta.json  [  434.0B]
+│   │   └── text.txt  [   30.0B]
+│   ├── M1792607856037/
+│   │   ├── meta.json  [  526.0B]
+│   │   └── text.txt  [   59.0B]
+│   ├── M1792607868945/
+│   │   ├── meta.json  [  503.0B]
+│   │   └── text.txt  [   35.0B]
+│   ├── M1792607878934/
+│   │   ├── meta.json  [  515.0B]
+│   │   └── text.txt  [   47.0B]
+│   ├── M1792607885961/
+│   │   ├── meta.json  [  506.0B]
+│   │   └── text.txt  [   38.0B]
+│   ├── M1792608400574/
+│   │   ├── meta.json  [  435.0B]
+│   │   └── text.txt  [   30.0B]
+│   ├── M1792608520733/
+│   │   ├── meta.json  [  687.0B]
+│   │   └── text.txt  [    3.3KB]
+│   ├── M1792608800983/
+│   │   ├── meta.json  [  680.0B]
+│   │   └── text.txt  [    2.2KB]
+│   ├── M1792760820464/
+│   │   ├── meta.json  [  485.0B]
+│   │   └── text.txt  [   77.0B]
+│   ├── M1792760835832/
+│   │   ├── meta.json  [  636.0B]
+│   │   └── text.txt  [  169.0B]
+│   ├── M1792760864302/
+│   │   ├── meta.json  [  555.0B]
+│   │   └── text.txt  [   87.0B]
+│   ├── M1792760893858/
+│   │   ├── meta.json  [  634.0B]
+│   │   └── text.txt  [  166.0B]
+│   ├── M1792760918112/
+│   │   ├── meta.json  [  576.0B]
+│   │   └── text.txt  [  108.0B]
+│   ├── M1792760962615/
+│   │   ├── meta.json  [  627.0B]
+│   │   └── text.txt  [  159.0B]
+│   ├── M1792760988928/
+│   │   ├── meta.json  [  587.0B]
+│   │   └── text.txt  [  159.0B]
+│   ├── M1792761025582/
+│   │   ├── meta.json  [  642.0B]
+│   │   └── text.txt  [  174.0B]
+│   ├── M1792761040610/
+│   │   ├── meta.json  [  559.0B]
+│   │   └── text.txt  [   91.0B]
+│   ├── M1792770126852/
+│   │   ├── meta.json  [  478.0B]
+│   │   └── text.txt  [   73.0B]
+│   ├── M1792770160717/
+│   │   ├── meta.json  [  569.0B]
+│   │   └── text.txt  [   93.0B]
+│   ├── M1792770202205/
+│   │   ├── meta.json  [  557.0B]
+│   │   └── text.txt  [  113.0B]
+│   ├── M1792770259388/
+│   │   ├── meta.json  [  592.0B]
+│   │   └── text.txt  [  107.0B]
+│   ├── M1792770315318/
+│   │   ├── meta.json  [  627.0B]
+│   │   └── text.txt  [  164.0B]
+│   ├── M1792770389235/
+│   │   ├── meta.json  [  601.0B]
+│   │   └── text.txt  [  141.0B]
+│   ├── M1792770534631/
+│   │   ├── meta.json  [  614.0B]
+│   │   └── text.txt  [  154.0B]
+│   ├── M1792770569668/
+│   │   ├── meta.json  [  548.0B]
+│   │   └── text.txt  [  104.0B]
+│   ├── M1792770616847/
+│   │   ├── meta.json  [  477.0B]
+│   │   └── text.txt  [   47.0B]
+│   ├── M1792770638656/
+│   │   ├── meta.json  [  580.0B]
+│   │   └── text.txt  [   95.0B]
+│   ├── M1792770737106/
+│   │   ├── meta.json  [  566.0B]
+│   │   └── text.txt  [   85.0B]
+│   ├── M1792770887978/
+│   │   ├── meta.json  [  554.0B]
+│   │   └── text.txt  [   72.0B]
+│   └── M1792771006542/
+│       ├── meta.json  [  557.0B]
+│       └── text.txt  [   57.0B]
+├── model/
+│   ├── Modelfile  [  430.0B]
+│   ├── Phi-3-mini-4k-instruct-q4 - Copy.gguf  [    2.2GB]
+│   ├── Phi-3-mini-4k-instruct-q4.gguf  [    2.2GB]
+│   └── Vashrak.Modelfile  [    2.5KB]
+├── modules/
+│   ├── __pycache__/
+│   │   ├── __init__.cpython-314.pyc  [  788.0B]
+│   │   ├── __init__.cpython-39.pyc  [  718.0B]
+│   │   ├── active_inference.cpython-314.pyc  [   11.9KB]
+│   │   ├── active_inference.cpython-39.pyc  [    7.3KB]
+│   │   ├── attention.cpython-314.pyc  [   11.4KB]
+│   │   ├── attention.cpython-39.pyc  [    6.5KB]
+│   │   ├── audio_video.cpython-314.pyc  [    7.9KB]
+│   │   ├── audio_video.cpython-39.pyc  [    4.0KB]
+│   │   ├── consciousness.cpython-314.pyc  [   26.7KB]
+│   │   ├── consciousness.cpython-39.pyc  [   15.1KB]
+│   │   ├── conversation_style.cpython-314.pyc  [    3.7KB]
+│   │   ├── conversation_style.cpython-39.pyc  [    3.7KB]
+│   │   ├── emotions.cpython-314.pyc  [   13.1KB]
+│   │   ├── emotions.cpython-39.pyc  [    6.8KB]
+│   │   ├── identity.cpython-314.pyc  [    1.6KB]
+│   │   ├── identity.cpython-39.pyc  [    1.1KB]
+│   │   ├── intrinsic_motivation.cpython-314.pyc  [   16.8KB]
+│   │   ├── intrinsic_motivation.cpython-39.pyc  [    8.6KB]
+│   │   ├── knowledge.cpython-314.pyc  [    9.1KB]
+│   │   ├── knowledge.cpython-39.pyc  [    4.6KB]
+│   │   ├── llm.cpython-314.pyc  [   11.4KB]
+│   │   ├── llm.cpython-39.pyc  [    6.8KB]
+│   │   ├── logger.cpython-314.pyc  [    1.8KB]
+│   │   ├── memory.cpython-314.pyc  [   22.6KB]
+│   │   ├── memory.cpython-39.pyc  [   10.8KB]
+│   │   ├── metacognition.cpython-314.pyc  [   16.0KB]
+│   │   ├── metacognition.cpython-39.pyc  [    9.0KB]
+│   │   ├── orchestrator.cpython-314.pyc  [    9.1KB]
+│   │   ├── response_filter.cpython-314.pyc  [    3.3KB]
+│   │   ├── response_filter.cpython-39.pyc  [    2.0KB]
+│   │   ├── rewards.cpython-314.pyc  [   10.2KB]
+│   │   ├── rewards.cpython-39.pyc  [    5.6KB]
+│   │   ├── self_model.cpython-314.pyc  [   18.5KB]
+│   │   ├── self_model.cpython-39.pyc  [    9.8KB]
+│   │   ├── speech.cpython-314.pyc  [    4.9KB]
+│   │   ├── speech.cpython-39.pyc  [    2.7KB]
+│   │   ├── sync.cpython-314.pyc  [    1.1KB]
+│   │   ├── thoughts_goals.cpython-314.pyc  [   27.9KB]
+│   │   ├── thoughts_goals.cpython-39.pyc  [   14.1KB]
+│   │   ├── virtual_world.cpython-314.pyc  [   15.5KB]
+│   │   └── virtual_world.cpython-39.pyc  [    8.1KB]
+│   ├── __init__.py  [  547.0B]
+│   ├── active_inference.py  [    8.0KB]
+│   ├── attention.py  [    7.3KB]
+│   ├── audio_video.py  [    6.1KB]
+│   ├── consciousness.py  [   18.3KB]
+│   ├── conversation_style.py  [    4.0KB]
+│   ├── emotions.py  [    8.2KB]
+│   ├── identity.py  [  987.0B]
+│   ├── intrinsic_motivation.py  [   10.9KB]
+│   ├── knowledge.py  [    5.3KB]
+│   ├── llm.py  [    7.6KB]
+│   ├── logger.py  [  848.0B]
+│   ├── memory.py  [   16.8KB]
+│   ├── metacognition.py  [   10.5KB]
+│   ├── orchestrator.py  [    6.0KB]
+│   ├── response_filter.py  [    2.6KB]
+│   ├── rewards.py  [    7.6KB]
+│   ├── self_model.py  [   11.5KB]
+│   ├── speech.py  [    2.7KB]
+│   ├── sync.py  [  525.0B]
+│   ├── thoughts_goals.py  [   17.9KB]
+│   └── virtual_world.py  [   14.1KB]
+├── thought_store/
+│   └── thoughts.json  [    6.4KB]
+├── thoughts_store.json/
+│   └── thoughts.json  [    4.0B]
+├── Whatsapp Data/
+│   ├── WhatsApp Chat with Aisha Bangladesh/
+│   │   └── WhatsApp Chat with Aisha Bangladesh.txt  [   64.4KB]
+│   ├── WhatsApp Chat with Ananya/
+│   │   └── WhatsApp Chat with Ananya.txt  [  202.8KB]
+│   ├── WhatsApp Chat with Carl/
+│   │   ├── Shilpa Dps Counselor.vcf  [  147.0B]
+│   │   └── WhatsApp Chat with Carl.txt  [    2.4MB]
+│   └── WhatsApp Chat with Harshita/
+│       ├── Carl AUS number.vcf  [  123.0B]
+│       └── WhatsApp Chat with Harshita.txt  [    1.6MB]
+├── zeroai/
+│   └── Modelfile  [  276.0B]
+├── __llm_new.py  [    5.0B]
+├── build_knowledge_embeddings.py  [  499.0B]
+├── build_memory_graph.py  [    2.6KB]
+├── build_memory_index.py  [    1.9KB]
+├── build_semantic_index.py  [  560.0B]
+├── chat.py  [    5.0KB]
+├── cl_test1.txt  [    9.0KB]
+├── cl_test_1_1.txt  [   12.3KB]
+├── cl_test_2.txt  [    5.2KB]
+├── clear_all_data.py  [    2.5KB]
+├── config.json  [   66.0B]
+├── consciousness_state.json  [  207.0B]
+├── ConsciousnessGUI.js  [   15.4KB]
+├── conversation_train.bat  [   46.0B]
+├── conversation_train.py  [   10.9KB]
+├── create_knowledge_index.py  [  816.0B]
+├── current_emotion.json  [  119.0B]
+├── example_output.txt  [    1.7KB]
+├── folder_structure.txt  [   18.1KB]
+├── goals.json  [    3.0KB]
+├── graph.json  [  158.7KB]
+├── grid.py  [   19.8KB]
+├── gui.html  [   15.8KB]
+├── gui_server.py  [    5.4KB]
+├── identity.json  [    4.2KB]
+├── init_system.py  [    1.4KB]
+├── inject_pdf_axioms.py  [    8.3KB]
+├── internal_monologue.json  [   27.2KB]
+├── knowledge_embeddings.npy  [  119.7KB]
+├── knowledge_index.json  [   41.2KB]
+├── main.py  [   44.5KB]
+├── memory_example_tree.txt  [    2.4KB]
+├── memory_index.json  [   20.3KB]
+├── memory_test_file.py  [   21.6KB]
+├── metacognition.json  [  503.0B]
+├── My_Thought_Process_Q_and_A.pdf  [   11.5KB]
+├── Project-V.gitignore  [    2.3KB]
+├── QUICK_START_GUIDE.md  [    8.5KB]
+├── raw_data_maker.py  [    4.5KB]
+├── README.md  [    3.4KB]
+├── requirements.txt  [  187.0B]
+├── reward_history.json  [   63.3KB]
+├── rewards.json  [   36.5KB]
+├── RUN.bat  [  230.0B]
+├── run.py  [  357.0B]
+├── self_model.json  [    9.9KB]
+├── semantic_index.npy  [   56.5KB]
+├── temp_audio.wav  [  258.4KB]
+├── temp_video.avi  [  534.3KB]
+├── test.py  [  148.0B]
+├── test.txt  [  357.0B]
+├── test_consciousness.py  [    3.0KB]
+├── train.bat  [   37.0B]
+├── training.py  [    4.5KB]
+├── training_conversations.jsonl  [    1.9KB]
+├── training_conversations_rating_7+.jsonl  [  585.0B]
+├── TRAINING_GUIDE.md  [    4.7KB]
+├── training_ratings.jsonl  [    1.0KB]
+├── TRAINING_README.md  [    6.2KB]
+├── tron_grid.png  [    5.7KB]
+└── working_state.json  [    2.2KB]
+
+======================================================================
+Total files: 295
+Total size:      4.5GB
